@@ -8,6 +8,8 @@ if __name__ == "__main__":
 		print("I ply on the tracks.")
 	elif sys.argv[1]=="IC814":
 		print("I was hijacked from Kathmandu")
+	elif sys.argv[1]=="Titanic":
+		print("I was sanked by an ice berg.")
 	else:
 		default()
 
